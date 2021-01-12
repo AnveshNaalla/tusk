@@ -1,6 +1,4 @@
 test data
 first file in GIT
-removed update
 
-1
-2
+removed update
